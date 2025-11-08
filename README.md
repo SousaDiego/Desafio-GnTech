@@ -24,7 +24,7 @@ O objetivo principal foi demonstrar habilidades práticas de:
 
 ## 🎯 Por que PHP + React?
 
-O desafio original solicitava **Ruby on Rails**. Porém, refleti sobre a proposta e decidi que implementar a solução utilizando tecnologias que me sinto mais seguro seria uma boa forma de demonstrar interesse, proatividade e comprometimento com a qualidade da entrega.
+O desafio original solicitava **Linguagemn de minha prefrênca**. Desse modo, refleti sobre a proposta e decidi que implementar a solução utilizando tecnologias que me sinto mais seguro seria uma boa forma de demonstrar interesse, proatividade e comprometimento com a qualidade da entrega.
 
 Para garantir o **primor da entrega** dentro do prazo proposto, trabalhei com as ferramentas listadas anteriormente garantindo assim um código funcional, limpo e dentro das **boas práticas de API RESTful**.
 
@@ -86,5 +86,4 @@ npm install
 
 # Rodar aplicação React
 npm run dev
-
 
